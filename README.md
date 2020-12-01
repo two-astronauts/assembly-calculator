@@ -2,8 +2,8 @@
 
 ## Compile
 
-    > gcc -o calculadora calculadora.s
+    gcc -o calculadora calculadora.s
 
 ## Execute
 
-    > ./calculadora
+    ./calculadora
